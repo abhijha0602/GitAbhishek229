@@ -6,3 +6,5 @@ remote repo
 stash
 hello i am abhishek kumar is the 
 i am from bihar is the 
+
+git diff
